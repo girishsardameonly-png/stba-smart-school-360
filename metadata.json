@@ -1,0 +1,6 @@
+{
+  "name": "SMART SCHOOL 360°",
+  "description": "One Digital Platform. One Smart School. Unified command dashboard with Smart Energy Management, Smart Transport, Smart Attendance, and Smart Library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
